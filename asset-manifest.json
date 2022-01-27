@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/praticando-estados-react/static/css/main.359ef743.css",
+    "main.js": "/praticando-estados-react/static/js/main.6ec114b4.js",
+    "static/media/copo.png": "/praticando-estados-react/static/media/copo.89c13cf19e5200c635e4.png",
+    "index.html": "/praticando-estados-react/index.html",
+    "main.359ef743.css.map": "/praticando-estados-react/static/css/main.359ef743.css.map",
+    "main.6ec114b4.js.map": "/praticando-estados-react/static/js/main.6ec114b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.359ef743.css",
+    "static/js/main.6ec114b4.js"
+  ]
+}
